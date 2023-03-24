@@ -35,13 +35,6 @@ public class Task{
 		this.description = description;
 	}
 	
-	public Integer getId() {
-		return id;
-	}
-
-	public void setId(Integer id) {
-		this.id = id;
-	}
 	
 	public String getTask() {
 		return task;
